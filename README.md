@@ -21,7 +21,7 @@ I'm Rizky Syaban, an Informatics student who enjoys learning programming and bui
 ### 📌 Projects
 
 - 🧠 [MBTI Personality Test](https://ikysyaban14.github.io/tes-keperibadian-final/)
-- ⚽ Futsal Kita
+- ⚽ [Futsal Kita](https://ikysyaban14.github.io/futsalkita/)
 - 🤖 Diagnosa keruskan laptop
 - 🏓 Ping-Pong Hand Tracking
   
