@@ -1,106 +1,121 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World+%F0%9F%91%8B;I'm+IkySyaban;Developer%2C+Creator%2C+Builder;Building+the+future..." alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="IkySyaban">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00f5ff"/>
-        <stop offset="35%" stop-color="#7c3aed"/>
-        <stop offset="70%" stop-color="#ff4ecd"/>
-        <stop offset="100%" stop-color="#ffd166"/>
-      </linearGradient>
-      <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-        <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00f5ff" flood-opacity="0.9"/>
-      </filter>
-    </defs>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=IkySyaban;Full-Stack+Developer;Coding+Enthusiast;Always+Learning" alt="Typing SVG" />
 
-    <rect x="15" y="15" width="870" height="150" rx="18" fill="#0b1020" opacity="0.9"/>
-    <text x="450" y="103" text-anchor="middle" font-size="60" font-weight="800" font-family="Segoe UI, Arial, sans-serif" fill="url(#grad)" filter="url(#glow)" letter-spacing="2">
-      IkySyaban
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="2.8s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="2.6s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="132" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#dfe6ee" letter-spacing="7">
-      BUILDING FUTURE IDEAS
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20work-00F5FF?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-FF4ECD?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/Focus-Coding-00D9FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Passion-Technology-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Always-10B981?style=for-the-badge" />
 </p>
 
----
+</div>
 
 ## 🚀 About Me
 
-Hi, I'm <b>IkySyaban</b> — a passionate developer who enjoys turning ideas into impactful digital experiences.  
-I love building products, exploring new technologies, and constantly improving my skills in software engineering, UI/UX thinking, and creative problem solving.
+Saya adalah seorang pengembang yang tertarik pada dunia pemrograman, teknologi, dan solusi digital.  
+Saya suka membangun aplikasi, memecahkan masalah, dan terus belajar hal-hal baru di bidang software development.
 
-- 💡 Interested in: Web Development, Automation, AI, Cybersecurity, and Creative Tech
-- 🌱 Currently learning: modern frameworks, scalable systems, and AI-powered workflows
-- ⚡ Motto: Build smart. Build fast. Build for the future.
+- 💻 Fokus pada pengembangan web dan aplikasi
+- 🌐 Suka eksplorasi teknologi modern
+- 🧠 Selalu berusaha meningkatkan skill dan logika pemrograman
+- 📈 Gemar belajar melalui project nyata dan eksperimen
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IkySyaban&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkySyaban&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ikysyaban14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikysyaban14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## 💻 Features I Enjoy
-
-- 🔧 Building useful digital products
-- 🚀 Exploring modern web technologies
-- 🧩 Solving real-world problems with code
-- 📈 Learning continuously and improving every day
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌟 Featured Projects
+
+### 1. Project Name
+> Deskripsi singkat project, teknologi yang dipakai, dan manfaatnya.
+
+- 🔧 Tech: `React`, `Node.js`, `MongoDB`
+- 🧩 Fokus: aplikasi modern dan user-friendly
+- 🔗 Live Demo: [link]
+- 📁 Repo: [link]
+
+### 2. Project Name
+> Deskripsi singkat project, fitur utama, dan hasil yang dicapai.
+
+- 🔧 Tech: `Python`, `FastAPI`, `PostgreSQL`
+- 🧩 Fokus: backend API dan automasi
+- 🔗 Live Demo: [link]
+- 📁 Repo: [link]
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/IkySyaban">
-    <img src="https://img.shields.io/badge/GitHub-@IkySyaban-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Ikysyaban14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4ECD?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Keep%20building%20the%20future!&fontSize=24&animation=twinkling&fontColor=ffffff&height=120" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-Programming-00D9FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>“Code is not just logic, it is a way to create solutions.”</i>
 </p>
