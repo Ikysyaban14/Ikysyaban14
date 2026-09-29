@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Futuristic Cyberpunk Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00f2fe&height=280&section=header&text=IKY%20SYABAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20|%20FULL%20STACK%20DEVELOPER&descAlignY=62&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00f2fe&height=280&section=header&text=IKY%20SYABAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20|" width="100%" />
 
 <!-- Typing Effect Subtitle -->
 <a href="https://git.io/typing-svg">
