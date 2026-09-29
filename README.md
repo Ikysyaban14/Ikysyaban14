@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World+%F0%9F%91%8B;I'm+IkySyaban;Developer%2C+Creator%2C+Builder;Coding+the+future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World+%F0%9F%91%8B;I'm+IkySyaban;Developer%2C+Creator%2C+Builder;Building+the+future..." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,13 +16,13 @@
       </filter>
     </defs>
 
-    <rect x="15" y="15" width="870" height="150" rx="22" fill="#0b1020" opacity="0.85"/>
+    <rect x="15" y="15" width="870" height="150" rx="18" fill="#0b1020" opacity="0.9"/>
     <text x="450" y="103" text-anchor="middle" font-size="60" font-weight="800" font-family="Segoe UI, Arial, sans-serif" fill="url(#grad)" filter="url(#glow)" letter-spacing="2">
       IkySyaban
       <animate attributeName="opacity" values="0.8;1;0.8" dur="2.8s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="2.6s" repeatCount="indefinite"/>
     </text>
-    <text x="450" y="130" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#cbd5e1" letter-spacing="7">
+    <text x="450" y="132" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#dfe6ee" letter-spacing="7">
       BUILDING FUTURE IDEAS
       <animate attributeName="opacity" values="0.6;1;0.6" dur="2.2s" repeatCount="indefinite"/>
     </text>
@@ -76,12 +76,12 @@ I love building products, exploring new technologies, and constantly improving m
 
 ---
 
-## 📌 Highlights
+## 💻 Features I Enjoy
 
-- 🔧 Building useful tools and digital solutions
+- 🔧 Building useful digital products
 - 🚀 Exploring modern web technologies
 - 🧩 Solving real-world problems with code
-- 📈 Improving my skills every day
+- 📈 Learning continuously and improving every day
 
 ---
 
