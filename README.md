@@ -57,10 +57,14 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Iksyaban14&show_icons=true&theme=tokyonight&hide_border=true" alt="Iksyaban14's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=Iksyaban14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ikysyaban14&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=7C3AED&text_color=E2E8F0&bg_color=0F172A" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikysyaban14&theme=tokyonight&hide_border=true&background=0F172A&stroke=00F5FF&ring=7C3AED&fire=FF7B00&currStreakLabel=E2E8F0" alt="GitHub Streak" />
+
+</div>
+
 
 <!-- ================= BAGIAN AKHIR ================= -->
 
