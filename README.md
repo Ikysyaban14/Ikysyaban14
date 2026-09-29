@@ -5,7 +5,7 @@
 
 <!-- Typing Effect Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Building+The+Digital+Future..;Transforming+Complex+Algorithms+Into+Code..;Informatics+Student+%26+Tech+Architect.." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Building+The+Digital+Future..;Transforming+Complex+Algorithms+Into+Code..;Informatics+Student+%26+Tech+.." alt="Typing SVG" />
 </a>
 
 <br/>
