@@ -81,5 +81,5 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Keep%20building%20the%20future!&fontSize=24&animation=twinkling&fontColor=ffffff&height=120" />
 </p>
