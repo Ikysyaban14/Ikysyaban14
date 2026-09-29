@@ -1,28 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=IkySyaban;Full-Stack+Developer;Coding+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=IkySyaban;Developer;Coder;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&fontSize=45&fontAlign=50&height=180&animation=twirl&fontColor=ffffff&background=linear-gradient(135deg,#0F172A,#1E293B,#0EA5E9,#7C3AED)" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Coding-00D9FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Passion-Technology-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Always-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Coding-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Tech-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Always-10B981?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </p>
 
 </div>
 
-## 🚀 About Me
+# ✨ IkySyaban
+### "Building ideas into digital experiences"
 
-Saya adalah seorang pengembang yang tertarik pada dunia pemrograman, teknologi, dan solusi digital.  
-Saya suka membangun aplikasi, memecahkan masalah, dan terus belajar hal-hal baru di bidang software development.
+Saya adalah seorang pengembang yang tertarik pada dunia teknologi, pemrograman, dan inovasi digital.  
+Saya suka membangun solusi, menghadapi tantangan, dan terus berkembang bersama perkembangan teknologi.
 
-- 💻 Fokus pada pengembangan web dan aplikasi
-- 🌐 Suka eksplorasi teknologi modern
-- 🧠 Selalu berusaha meningkatkan skill dan logika pemrograman
-- 📈 Gemar belajar melalui project nyata dan eksperimen
+- 💻 Fokus pada pengembangan aplikasi dan web
+- 🌐 Menyukai teknologi modern dan sistem yang efisien
+- 🧠 Sering mengeksplorasi logika, algoritma, dan problem solving
+- 🚀 Selalu belajar, berkembang, dan membuat project yang bermanfaat
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 
 ### Languages
 <p>
@@ -39,6 +42,7 @@ Saya suka membangun aplikasi, memecahkan masalah, dan terus belajar hal-hal baru
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### Backend
@@ -60,13 +64,13 @@ Saya suka membangun aplikasi, memecahkan masalah, dan terus belajar hal-hal baru
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ikysyaban14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ikysyaban14&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=7C3AED&text_color=E2E8F0&bg_color=0F172A" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikysyaban14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikysyaban14&theme=tokyonight&hide_border=true&background=0F172A&stroke=00F5FF&ring=7C3AED&fire=FF7B00&currStreakLabel=E2E8F0" alt="GitHub Streak" />
 
 </div>
 
@@ -74,21 +78,21 @@ Saya suka membangun aplikasi, memecahkan masalah, dan terus belajar hal-hal baru
 
 ## 🌟 Featured Projects
 
-### 1. Project Name
-> Deskripsi singkat project, teknologi yang dipakai, dan manfaatnya.
+### 1. Smart Project
+> Project yang dibuat untuk menyelesaikan kebutuhan nyata dengan pendekatan modern dan user-friendly.
 
 - 🔧 Tech: `React`, `Node.js`, `MongoDB`
-- 🧩 Fokus: aplikasi modern dan user-friendly
-- 🔗 Live Demo: [link]
-- 📁 Repo: [link]
+- 🧩 Focus: aplikasi digital yang efisien
+- 🔗 Demo: [link-project]
+- 📁 Repository: [repo-link]
 
-### 2. Project Name
-> Deskripsi singkat project, fitur utama, dan hasil yang dicapai.
+### 2. API & Backend Solution
+> Solusi backend yang cepat, aman, dan scalable untuk berbagai kebutuhan aplikasi.
 
 - 🔧 Tech: `Python`, `FastAPI`, `PostgreSQL`
-- 🧩 Fokus: backend API dan automasi
-- 🔗 Live Demo: [link]
-- 📁 Repo: [link]
+- 🧩 Focus: API, automasi, dan sistem data
+- 🔗 Demo: [link-project]
+- 📁 Repository: [repo-link]
 
 ---
 
@@ -112,10 +116,10 @@ Saya suka membangun aplikasi, memecahkan masalah, dan terus belajar hal-hal baru
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20Learning-Programming-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Style-Futuristic-00F5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code%20Style-Clean-7C3AED?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>“Code is not just logic, it is a way to create solutions.”</i>
+  <i>“Code is not just a tool, it is a way to turn imagination into reality.”</i>
 </p>
