@@ -24,18 +24,58 @@
 
 <br/>
 
-## ⚡ System Overview
+<!-- ================= BAGIAN TENGAH ================= -->
 
-```javascript
-const developer = {
-    identity: "Iky Syaban",
-    degree: "Informatics Engineering Student",
-    roles: ["Full Stack Developer", "UI/UX Designer", "Software Architect"],
-    languages: ["JavaScript", "Node.js", "HTML5/CSS3", "C++", "Python"],
-    currentFocus: [
-        "Modern Web Application Architecture",
-        "Algorithm Optimization & Performance",
-        "High-Converting User Interface Design"
-    ],
-    philosophy: "Clean code always looks like it was written by someone who cares."
-};
+## 💫 About Me
+- 🔭 **Sedang fokus pada:** Full Stack Web Development & Software Engineering.
+- 🎓 **Latar Belakang:** Mahasiswa Teknik Informatika yang antusias dengan pengembangan perangkat lunak dan algoritma.
+- 💡 **Minat Utama:** Desain database (ERD), pengembangan aplikasi Node.js, dan optimasi sistem.
+- 🛠️️ **Hobi/Aktivitas:** Mengembangkan proyek web interaktif dan mempelajari teknologi UI/UX terkini.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Iksyaban14&show_icons=true&theme=tokyonight&hide_border=true" alt="Iksyaban14's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=Iksyaban14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- ================= BAGIAN AKHIR ================= -->
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/iksyaban14" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emailkamu@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer" width="100%" />
+</p>
