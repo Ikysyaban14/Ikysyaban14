@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Glowing Badges -->
-[![GitHub Followers](https://img.shields.io/github/followers/IkySyaban?style=for-the-badge&logo=github&color=1f6feb&logoColor=white)](https://github.com/IkySyaban)
-[![Profile Views](https://komarev.com/ghpvc/?username=IkySyaban&label=SYSTEM%20ACCESS&color=00f2fe&style=for-the-badge)](https://github.com/IkySyaban)
-[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00f2fe?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/IkySyaban)
-[![Security](https://img.shields.io/badge/SECURITY-ENCRYPTED-green?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/IkySyaban)
+[![GitHub Followers](https://img.shields.io/github/followers/Ikysyaban14?style=for-the-badge&logo=github&color=1f6feb&logoColor=white)](https://github.com/Ikysyaban14)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ikysyaban14&label=SYSTEM%20ACCESS&color=00f2fe&style=for-the-badge)](https://github.com/Ikysyaban14)
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00f2fe?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/Ikysyaban14)
+[![Security](https://img.shields.io/badge/SECURITY-ENCRYPTED-green?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Ikysyaban14)
 
 </div>
 
@@ -31,7 +31,7 @@ const developer = {
     identity: "Iky Syaban",
     degree: "Informatics Engineering Student",
     roles: ["Full Stack Developer", "UI/UX Designer", "Software Architect"],
-    languages: ["JavaScript", "Node.js", "HTML5/CSS3"],
+    languages: ["JavaScript", "Node.js", "HTML5/CSS3", "C++", "Python"],
     currentFocus: [
         "Modern Web Application Architecture",
         "Algorithm Optimization & Performance",
